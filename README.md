@@ -1,3 +1,6 @@
 hi, I'm malinkang.
 
-[![Malinkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=malinkang)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://raw.githubusercontent.com/malinkang/GitHubPoster/c4845d5de094b472684c6ad5528fde67d770def0/OUT_FOLDER/duolingo.svg)
+![](https://raw.githubusercontent.com/malinkang/GitHubPoster/c4845d5de094b472684c6ad5528fde67d770def0/OUT_FOLDER/forest.svg)
+![](https://raw.githubusercontent.com/malinkang/GitHubPoster/c4845d5de094b472684c6ad5528fde67d770def0/OUT_FOLDER/weread.svg)
