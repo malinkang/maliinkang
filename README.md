@@ -1,6 +1,8 @@
-hi, I'm malinkang.
+## 关于
 
+- 👋 嗨，我叫马林康，目前工作生活在北京，是一名Android工程师 👨🏻‍💻
+- ❤️ 我喜欢[🏃🏻跑步](https://run.malinkang.com/) 、[📖读书](https://book.malinkang.com) 和🎬看电影
+- ✍️ 会在[个人博客](https://blog.malinkang.com/)上记录生活和学习笔记，也会活跃在一些社交媒体上。
 
-![](https://raw.githubusercontent.com/malinkang/GitHubPoster/c4845d5de094b472684c6ad5528fde67d770def0/OUT_FOLDER/duolingo.svg)
-![](https://raw.githubusercontent.com/malinkang/GitHubPoster/c4845d5de094b472684c6ad5528fde67d770def0/OUT_FOLDER/forest.svg)
-![](https://raw.githubusercontent.com/malinkang/GitHubPoster/c4845d5de094b472684c6ad5528fde67d770def0/OUT_FOLDER/weread.svg)
+[![GitHub](https://img.shields.io/badge/GitHub-%40malinkang-239a3b.svg)](https://github.com/malinkang)
+[![Twitter](https://img.shields.io/badge/Twitter-%40malinkang-58a1f2.svg)](https://twitter.com/malinkang)
