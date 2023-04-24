@@ -6,3 +6,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40malinkang-239a3b.svg)](https://github.com/malinkang)
 [![Twitter](https://img.shields.io/badge/Twitter-%40malinkang-58a1f2.svg)](https://twitter.com/malinkang)
+[![Telegram](https://img.shields.io/badge/Telegram-%40malinkang-58a1f2.svg)](https://t.me/malinkang)
