@@ -7,3 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40malinkang-239a3b.svg)](https://github.com/malinkang)
 [![Twitter](https://img.shields.io/badge/Twitter-%40malinkang-58a1f2.svg)](https://twitter.com/malinkang)
 [![Telegram](https://img.shields.io/badge/Telegram-%40malinkang-58a1f2.svg)](https://t.me/malinkang)
+
+| <a href="https://github.com/malinkang"><img style="height: 200px" src="https://github.com/malinkang/GitHubPoster/blob/main/OUT_FOLDER/duolingo.svg"></a> | <a href="https://github.com/malinkang"><img style="height: 200px" src="https://github.com/malinkang/GitHubPoster/blob/main/OUT_FOLDER/weread.svg"></a> |
+| ---------- | --------- |
+| <a href="https://github.com/malinkang"><img style="height: 200px" src="https://github.com/malinkang/GitHubPoster/blob/main/OUT_FOLDER/duolingo.svg"></a> | <a href="https://github.com/malinkang"><img style="height: 200px" src="https://github.com/malinkang/GitHubPoster/blob/main/OUT_FOLDER/weread.svg"></a> |
