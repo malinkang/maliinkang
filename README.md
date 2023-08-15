@@ -10,4 +10,4 @@
 
 | <a href="https://github.com/malinkang"><img style="height: 200px" src="https://github.com/malinkang/GitHubPoster/blob/main/OUT_FOLDER/duolingo.svg"></a> | <a href="https://github.com/malinkang"><img style="height: 200px" src="https://github.com/malinkang/GitHubPoster/blob/main/OUT_FOLDER/weread.svg"></a> |
 | ---------- | --------- |
-| <a href="https://github.com/malinkang"><img style="height: 200px" src="https://github.com/malinkang/GitHubPoster/blob/main/OUT_FOLDER/duolingo.svg"></a> | <a href="https://github.com/malinkang"><img style="height: 200px" src="https://github.com/malinkang/GitHubPoster/blob/main/OUT_FOLDER/weread.svg"></a> |
+| <a href="https://github.com/malinkang"><img style="height: 300px" src="https://github.com/malinkang/running_page/blob/master/assets/github_2023.svg"></a> | |
